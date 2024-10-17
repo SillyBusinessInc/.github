@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="/images/banner.png" alt="banner" unselectable="on"/>
-</p>
+<!-- <p align="center">
+  <img src="/images/banner.png" alt="banner"/>
+</p> -->
+![banner](/images/banner.png)
 
 <!--
 
